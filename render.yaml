@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: llm-backend
+    name: NCHC_LLM_wraper
     runtime: python
     plan: free
     autoDeploy: true
